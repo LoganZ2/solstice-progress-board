@@ -1,0 +1,54 @@
+SOLSTICE — A Hand-Flipped Magnetic Walnut, Slate & Brass Wall Progress Installation
+
+Prototype mockup render (12x10 grid at ~40% completion, showing charcoal slate tiles flipped by hand into oiled walnut, brushed brass, and terracotta ceramic, with three seasonal brass milestone rings resting on the lower oak ledge):
+https://raw.githubusercontent.com/LoganZ2/solstice-progress-board/main/solstice-wall-render.jpg
+
+1. THE DESIGN (CORE IDEA)
+Solstice is a framed 12-by-10 architectural wall grid (120 square tiles, 45 mm x 45 mm x 10 mm each) suspended on thin horizontal brass rods inside a slim 680 mm x 580 mm matte-black steel gallery frame over warm natural linen backing.
+
+Every tile is two-sided:
+- Unfinished face: matte charcoal honed slate veneer (quiet, deep, almost architectural shadow).
+- Completed face: one of three warm tactile finishes — oiled American walnut (everyday tasks), matte terracotta ceramic (deep creative or learning work), or satin brushed brass (major milestones).
+
+How it evolves visually:
+- Empty (Day 0): A calm, minimalist dark-slate relief grid — looks like a serene Josef Albers or contemporary architectural acoustic panel, never like an empty to-do list shouting guilt at you.
+- After one week (10–25 tasks): Warm patches of walnut and terracotta emerge out of the dark slate like sunlit windows lighting up across a dusk facade.
+- After a few months (80–120 tasks): The grid transforms into a rich, woven mid-century geometric tapestry. No two boards ever look the same because the owner chooses which tile in the grid to flip and which of the three warm finishes fits the completed task.
+
+2. THE MECHANIC (WHY EVERY TASK FEELS SATISFYING)
+Each time you complete a task, you walk up to the wall, place your thumb and forefinger on one slate tile, pull it 3 mm off its concealed neodymium magnet pin, flip it 180 degrees around the brass alignment notch, and let it snap home with a crisp, heavy wooden-magnetic *clack*.
+
+Why this beats stickers, chalk, or sliding beads:
+- High-agency ceremony: It uses real mass (solid hardwood + magnet snap) and an unmistakable acoustic click that gives your nervous system a clean physical full stop on finished work.
+- Compositional play: You can flip linearly row-by-row, build outward from the center like tree rings, or compose diagonal color rhythms using walnut, terracotta, and brass tiles. Because flipping is completely reversible with zero residue, there is zero anxiety about "ruining" the board.
+
+3. MATERIALS, COST & HOME BUILD STEPS
+Total DIY material cost: ~$115–$160 USD (takes one weekend with basic hand/shop tools).
+
+Materials:
+- Backing & frame: 1x 680 mm x 580 mm 12 mm birch plywood panel ($15), 1 yard raw oatmeal linen + spray adhesive ($14), slim matte-black aluminum or stained poplar frame moulding ($28).
+- Grid substrate: 1x 0.5 mm galvanized steel sheet cut to 620 mm x 520 mm glued behind the linen (or 120 flush-mounted 8 mm x 2 mm neodymium disc magnets epoxy-set in a drilled grid, ~$22).
+- 120 Tiles (45 mm square, 10 mm thick): 3x 10 mm American walnut hobby boards ripped into 45 mm squares with a 1.5 mm chamfered edge ($32).
+- Finishes for the two faces: Matte charcoal mineral/chalk paint or thin peel-and-stick slate veneer sheets for the back face of all 120 tiles ($14); Danish oil for ~75 walnut completion faces ($8); matte terracotta acrylic enamel or thin unglazed ceramic tiles for ~30 deep-work faces ($12); thin 0.3 mm brushed brass sheet squares epoxied onto ~15 milestone faces ($16).
+- Magnets & alignment pins: 120x 6 mm x 3 mm neodymium disc magnets countersunk centered inside each tile ($14), plus optional 2 mm solid brass decorative horizontal spacer rods ($12).
+- Lower ledge & milestone rings: 1x 500 mm x 55 mm white oak display ledge ($10) + 3–5 machined brass curtain/napkin rings (40 mm diameter, $12).
+
+Tools needed:
+- Miter saw or table saw (or order pre-cut 45 mm walnut blanks online to skip sawing entirely), hand drill with 6 mm Forstner bit, 220-grit sandpaper, wood glue, two-part epoxy, ruler, and pencil.
+
+Build steps:
+1. Glue the thin galvanized steel sheet onto the birch plywood backing, then wrap tightly in raw linen and mount inside the matte-black gallery frame.
+2. Sand and lightly chamfer all 120 walnut 45 mm squares. Drill a 6 mm shallow recess in the exact center of the slate-side face and flush-glue one neodymium magnet per tile (keep polarity identical if using board magnets; polarity does not matter against a galvanized steel backing sheet!).
+3. Finish one side of every tile in matte charcoal slate. Finish the opposite side in oiled walnut (~75 tiles), terracotta (~30 tiles), or brushed brass (~15 tiles).
+4. Lay out the 12x10 grid with a 5 mm cardboard spacer strip (tiles hold firmly straight through the thin linen onto the steel sheet) and mount the narrow oak ledge 100 mm below the frame.
+
+4. SCALE OVER MONTHS AND YEARS (INFINITE WITHOUT CLUTTER)
+A 120-tile board holds roughly one quarter (1–2 meaningful tasks per day for 90 days) without looking busy or microscopic. When all 120 tiles are warm:
+- Photograph the completed quarter's "tapestry" for a quiet digital archive.
+- Place one solid brass milestone ring onto the lower oak ledge — each ring permanently represents 120 completed tasks (one full season).
+- Spend three calm minutes flipping all 120 tiles back to matte charcoal slate to begin the next season fresh. After two years, the wall still looks effortlessly clean while eight heavy brass rings gleam along the oak ledge below.
+
+5. TWO VARIANTS CONSIDERED (AND WHY SOLSTICE WON)
+- Variant A — Pegboard & Colored Wooden Dowels: Easy to drill, but an empty pegboard looks like a garage tool wall rather than art, and loose extra dowels create desk clutter.
+- Variant B — Layered Watercolor Strip Calendar (painting one brushstroke per task): Gorgeous organically, but requires wet supplies, drying time, and cleanup — friction that kills the habit on tired evenings.
+- Why Solstice wins: Zero setup, zero consumables, zero mess, looks museum-ready even on Day 0, delivers an addictive magnetic-wood tactile snap on every task, and resets cleanly every season with permanent brass rings recording multi-year progress.
